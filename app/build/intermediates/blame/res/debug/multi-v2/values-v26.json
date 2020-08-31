@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/Users/smallblack/.gradle/caches/transforms-2/files-2.1/e46f3e16fd8948e8e4c48c913cb404d3/appcompat-1.1.0/res/values-v26/values-v26.xml",
+                    "source": "/Users/smallblack/.gradle/caches/transforms-2/files-2.1/d9dd54d2fab9936ae08ba0e0613e5611/appcompat-1.2.0/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

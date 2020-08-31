@@ -19,12 +19,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.thefristcode.jetpackproject.uis.ProgressActivity" >
+        <activity android:name="com.example.thefristcode.jetpackproject.recycleviews.RecycleViewActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.example.thefristcode.jetpackproject.uis.ProgressActivity" >
         </activity>
         <activity android:name="com.example.thefristcode.jetpackproject.lifes.StartTestActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.lifes.NormalActivity" />
@@ -34,8 +36,7 @@
         <activity android:name="com.example.thefristcode.jetpackproject.activitys.MessageActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.activitys.IntentsActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.activitys.MenuActivity" />
-        <activity android:name="com.example.thefristcode.jetpackproject.lifes.MainActivity" >
-        </activity>
+        <activity android:name="com.example.thefristcode.jetpackproject.lifes.MainActivity" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"

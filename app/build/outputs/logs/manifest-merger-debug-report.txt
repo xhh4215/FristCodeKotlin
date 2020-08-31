@@ -1,192 +1,202 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b7e7c08114c1329e03c36452e60a142c/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e46f3e16fd8948e8e4c48c913cb404d3/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0b39710cea75ad00d38735643e230b6/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/7619667f73099691456e81e3fedf8086/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/8bdc78f309f7ef2e274359e8a4f096da/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/f66fa33308b0619d349f33f29e1b9234/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/1570490a9aefa8bf7c72c2091e5007e6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c38deefe61a4b29c2fedadb5cb828cb9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/cb7465d23e93e74bedcba12369934f8a/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/721dcdb357351f758b5df456f00974d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5449d447cecb7a5b7105df425966ce92/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/4bf5efb9c6ca1cc1042b4ed281aac9d8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/00244e2ecd82b8e8696f962deb33b25d/core-1.3.1/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b37b2aeed146cfc3b1274c4cf21d4028/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/04338cc4af243eb3467f9a6774d7ffe9/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/8164904e8dbba255593df041e8bd30ea/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0bd2ce4177330168ac99df417fe2f14/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/fd3440538bb596e36a87fe8c16124faf/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ebcca62d7cfb14bdd40adc31f292a35f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/3a332f7b3ba12f0d97b1eff5486f8fcf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/59c8a6e28f96474652a981d6333afcdf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/32691ed1dd96a709bdd6754d66b7ebfd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/45677c45e4f66da8cda430daf4bff8f2/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5122fc204500656af10166f2dd6a5b7e/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d9dd54d2fab9936ae08ba0e0613e5611/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2995d45ea588366f6f9fe8fc590d4e16/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9f8a2abcb57b75dd9fe1a92869f0836d/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2294b0df3b757cdbef207f2f25df10ca/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a698c38b38eb933502f9586b6d199328/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9e63aa2a629e4fef783c7fc4ebf8b147/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2cab22854e50fcfe3a717b2d015f7ba8/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/01da77edeea52a5c2ded160d95967376/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/07dddd409000b003211b99de8a59b72f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/db69813c1b0432cd1db91bef7c5f9ed4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5f84cf4b9de1224d2353360dc64596a1/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/38e4bd6c0ad7736a1bc3aa8ef63c32d2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/854ca76a37e66ffb8f45ffa4805c7889/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/33fe34e35bb48f064e9bae850cedcc3c/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2386ed5742390aece1443fcc1b4c1a31/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c5be1a933c5ec38784d0182f8a960329/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9a0f9876062a4dbacc5f8b0af70a9acd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9b68171bdb4544f2be750b881d474571/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/eee642d4fd73a77cbde7bbceeef23291/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/abfdaec99e55bc364e3d7f2ab545b018/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ae586c09ea5e0875dda64eaaa49c0e42/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a89ea41efc1c5b332829c150e97aeb03/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:3:5-54
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:1-32:12
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:5:5-30:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0b39710cea75ad00d38735643e230b6/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0b39710cea75ad00d38735643e230b6/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/00244e2ecd82b8e8696f962deb33b25d/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/00244e2ecd82b8e8696f962deb33b25d/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2995d45ea588366f6f9fe8fc590d4e16/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2995d45ea588366f6f9fe8fc590d4e16/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ae586c09ea5e0875dda64eaaa49c0e42/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ae586c09ea5e0875dda64eaaa49c0e42/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/00244e2ecd82b8e8696f962deb33b25d/core-1.3.1/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.thefristcode.jetpackproject.uis.ProgressActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.thefristcode.jetpackproject.recycleviews.RecycleViewActivity
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:12:19-55
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:12:19-67
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.thefristcode.jetpackproject.uis.ProgressActivity
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:19-55
 activity#com.example.thefristcode.jetpackproject.lifes.StartTestActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:19:9-61
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:9-61
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:19:19-58
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:19-58
 activity#com.example.thefristcode.jetpackproject.lifes.NormalActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:20:9-58
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:22:9-58
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:20:19-55
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:22:19-55
 activity#com.example.thefristcode.jetpackproject.lifes.DiaLogActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:21:9-23:61
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:23:9-25:61
 	android:theme
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:23:13-58
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:25:13-58
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:22:13-49
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:24:13-49
 activity#com.example.thefristcode.jetpackproject.activitys.MessageActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:24:9-63
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:26:9-63
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:24:19-60
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:26:19-60
 activity#com.example.thefristcode.jetpackproject.activitys.IntentsActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:25:9-63
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:9-63
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:25:19-60
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:19-60
 activity#com.example.thefristcode.jetpackproject.activitys.MenuActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:26:9-60
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:28:9-60
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:26:19-57
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:28:19-57
 activity#com.example.thefristcode.jetpackproject.lifes.MainActivity
-ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:27:9-29:20
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:29:9-65
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml:27:19-53
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:29:19-53
 uses-sdk
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b7e7c08114c1329e03c36452e60a142c/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b7e7c08114c1329e03c36452e60a142c/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e46f3e16fd8948e8e4c48c913cb404d3/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e46f3e16fd8948e8e4c48c913cb404d3/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0b39710cea75ad00d38735643e230b6/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0b39710cea75ad00d38735643e230b6/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/0686ca90b872620e1e93c4a9f2d2181e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/7619667f73099691456e81e3fedf8086/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/7619667f73099691456e81e3fedf8086/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/8bdc78f309f7ef2e274359e8a4f096da/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/8bdc78f309f7ef2e274359e8a4f096da/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/f66fa33308b0619d349f33f29e1b9234/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/f66fa33308b0619d349f33f29e1b9234/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/1570490a9aefa8bf7c72c2091e5007e6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/1570490a9aefa8bf7c72c2091e5007e6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c38deefe61a4b29c2fedadb5cb828cb9/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c38deefe61a4b29c2fedadb5cb828cb9/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/cb7465d23e93e74bedcba12369934f8a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/cb7465d23e93e74bedcba12369934f8a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/721dcdb357351f758b5df456f00974d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/721dcdb357351f758b5df456f00974d6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5449d447cecb7a5b7105df425966ce92/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5449d447cecb7a5b7105df425966ce92/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/4bf5efb9c6ca1cc1042b4ed281aac9d8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/4bf5efb9c6ca1cc1042b4ed281aac9d8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/00244e2ecd82b8e8696f962deb33b25d/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/00244e2ecd82b8e8696f962deb33b25d/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b37b2aeed146cfc3b1274c4cf21d4028/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b37b2aeed146cfc3b1274c4cf21d4028/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/04338cc4af243eb3467f9a6774d7ffe9/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/04338cc4af243eb3467f9a6774d7ffe9/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/8164904e8dbba255593df041e8bd30ea/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/8164904e8dbba255593df041e8bd30ea/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0bd2ce4177330168ac99df417fe2f14/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c0bd2ce4177330168ac99df417fe2f14/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/fd3440538bb596e36a87fe8c16124faf/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/fd3440538bb596e36a87fe8c16124faf/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ebcca62d7cfb14bdd40adc31f292a35f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ebcca62d7cfb14bdd40adc31f292a35f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/3a332f7b3ba12f0d97b1eff5486f8fcf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/3a332f7b3ba12f0d97b1eff5486f8fcf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/59c8a6e28f96474652a981d6333afcdf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/59c8a6e28f96474652a981d6333afcdf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b741faf0c0e978004788a3922a8a438d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/32691ed1dd96a709bdd6754d66b7ebfd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/32691ed1dd96a709bdd6754d66b7ebfd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/45677c45e4f66da8cda430daf4bff8f2/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/45677c45e4f66da8cda430daf4bff8f2/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5122fc204500656af10166f2dd6a5b7e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5122fc204500656af10166f2dd6a5b7e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d9dd54d2fab9936ae08ba0e0613e5611/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d9dd54d2fab9936ae08ba0e0613e5611/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2995d45ea588366f6f9fe8fc590d4e16/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2995d45ea588366f6f9fe8fc590d4e16/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9f8a2abcb57b75dd9fe1a92869f0836d/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9f8a2abcb57b75dd9fe1a92869f0836d/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2294b0df3b757cdbef207f2f25df10ca/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2294b0df3b757cdbef207f2f25df10ca/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a698c38b38eb933502f9586b6d199328/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a698c38b38eb933502f9586b6d199328/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9e63aa2a629e4fef783c7fc4ebf8b147/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9e63aa2a629e4fef783c7fc4ebf8b147/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2cab22854e50fcfe3a717b2d015f7ba8/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2cab22854e50fcfe3a717b2d015f7ba8/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/01da77edeea52a5c2ded160d95967376/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/01da77edeea52a5c2ded160d95967376/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/07dddd409000b003211b99de8a59b72f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/07dddd409000b003211b99de8a59b72f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/db69813c1b0432cd1db91bef7c5f9ed4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/db69813c1b0432cd1db91bef7c5f9ed4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5f84cf4b9de1224d2353360dc64596a1/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5f84cf4b9de1224d2353360dc64596a1/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/38e4bd6c0ad7736a1bc3aa8ef63c32d2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/38e4bd6c0ad7736a1bc3aa8ef63c32d2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/854ca76a37e66ffb8f45ffa4805c7889/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/854ca76a37e66ffb8f45ffa4805c7889/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/33fe34e35bb48f064e9bae850cedcc3c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/33fe34e35bb48f064e9bae850cedcc3c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2386ed5742390aece1443fcc1b4c1a31/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2386ed5742390aece1443fcc1b4c1a31/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c5be1a933c5ec38784d0182f8a960329/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/c5be1a933c5ec38784d0182f8a960329/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9a0f9876062a4dbacc5f8b0af70a9acd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9a0f9876062a4dbacc5f8b0af70a9acd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9b68171bdb4544f2be750b881d474571/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/9b68171bdb4544f2be750b881d474571/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/eee642d4fd73a77cbde7bbceeef23291/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/eee642d4fd73a77cbde7bbceeef23291/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/abfdaec99e55bc364e3d7f2ab545b018/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/abfdaec99e55bc364e3d7f2ab545b018/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ae586c09ea5e0875dda64eaaa49c0e42/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/ae586c09ea5e0875dda64eaaa49c0e42/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a89ea41efc1c5b332829c150e97aeb03/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a89ea41efc1c5b332829c150e97aeb03/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/smallblack/StudioProjects/JetpackProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e1d93b91cdfa5cbb32ab62ea98840e67/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_start_test.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_start_test.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_progress.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_progress.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/menu_the_frist_menu.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/menu/the_frist_menu.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_message.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_message.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_dia_log.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_dia_log.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_normal.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_normal.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/layout_activity_intents.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/layout/activity_intents.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/JetpackProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smallblack/StudioProjects/JetpackProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

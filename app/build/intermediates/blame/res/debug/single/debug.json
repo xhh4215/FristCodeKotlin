@@ -1,11 +1,19 @@
 [
     {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_simple_fragment.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/activity_simple_fragment.xml"
+    },
+    {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_progress.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/activity_progress.xml"
     },
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/menu_the_frist_menu.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/menu/the_frist_menu.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_fragment_right.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/fragment_right.xml"
     },
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -42,6 +50,10 @@
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_fragment_another.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/fragment_another.xml"
     },
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_dia_log.xml.flat",
@@ -82,6 +94,10 @@
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_fragment_simple.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/fragment_simple.xml"
     },
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat",

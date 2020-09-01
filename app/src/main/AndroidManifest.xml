@@ -11,12 +11,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".savedata.SaveDataToFileActivity">
+        <activity android:name=".savedata.SharepreferenceActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".savedata.SaveDataToFileActivity">
+
         </activity>
 
         <receiver
@@ -44,9 +47,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".broadcastreceivers.SystemReceiverActivity">
-
-        </activity>
+        <activity android:name=".broadcastreceivers.SystemReceiverActivity"></activity>
         <activity android:name=".fragments.SimpleFragmentActivity" />
         <activity android:name=".recycleviews.RecycleViewActivity" />
         <activity android:name=".uis.ProgressActivity" />

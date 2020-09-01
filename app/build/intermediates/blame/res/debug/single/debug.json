@@ -32,6 +32,10 @@
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_sharepreference.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/activity_sharepreference.xml"
+    },
+    {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/activity_main.xml"
     },

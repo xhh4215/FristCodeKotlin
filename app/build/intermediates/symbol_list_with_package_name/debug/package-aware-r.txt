@@ -931,6 +931,10 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnActivity
+id btnActivityData
+id btnContext
+id btnContextData
 id button
 id buttonPanel
 id cancel_action
@@ -1174,6 +1178,7 @@ layout activity_normal
 layout activity_progress
 layout activity_recycle_view
 layout activity_save_data_to_file
+layout activity_sharepreference
 layout activity_simple_fragment
 layout activity_start_test
 layout activity_system_receiver

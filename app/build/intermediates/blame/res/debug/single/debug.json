@@ -8,12 +8,12 @@
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/activity_progress.xml"
     },
     {
-        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/menu_the_frist_menu.xml.flat",
-        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/menu/the_frist_menu.xml"
-    },
-    {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_fragment_right.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/fragment_right.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/menu_the_frist_menu.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/menu/the_frist_menu.xml"
     },
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -64,6 +64,10 @@
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_fragment_life.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/fragment_life.xml"
+    },
+    {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_activity_system_receiver.xml.flat",
+        "source": "/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/res/layout/activity_system_receiver.xml"
     },
     {
         "merged": "/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/res/merged/debug/layout_fragment_simple.xml.flat",

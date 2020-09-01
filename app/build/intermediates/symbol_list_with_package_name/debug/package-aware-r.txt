@@ -849,6 +849,7 @@ id FUNCTION
 id IntentBtn
 id LeftFragment
 id META
+id MyBradCast
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -1170,8 +1171,10 @@ layout activity_progress
 layout activity_recycle_view
 layout activity_simple_fragment
 layout activity_start_test
+layout activity_system_receiver
 layout custom_dialog
 layout fragment_another
+layout fragment_life
 layout fragment_right
 layout fragment_simple
 layout layout_recycleview_item

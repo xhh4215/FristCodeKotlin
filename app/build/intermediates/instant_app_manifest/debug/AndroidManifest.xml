@@ -20,7 +20,16 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <receiver
             android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.AnotherMyBroadCastReceiver"
             android:enabled="true"
@@ -47,11 +56,6 @@
         </receiver>
 
         <activity android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.SystemReceiverActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name="com.example.thefristcode.jetpackproject.fragments.SimpleFragmentActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.recycleviews.RecycleViewActivity" />

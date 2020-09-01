@@ -11,13 +11,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".savedata.SaveDataToFileActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <receiver
             android:name=".broadcastreceivers.AnotherMyBroadCastReceiver"
             android:enabled="true"
-            android:exported="true"
-            >
-            <intent-filter
-                android:priority="100">
+            android:exported="true">
+            <intent-filter android:priority="100">
                 <action android:name="com.example.broadcastrecever.MY_BROADCAST" />
             </intent-filter>
         </receiver>
@@ -39,11 +45,7 @@
         </receiver>
 
         <activity android:name=".broadcastreceivers.SystemReceiverActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".fragments.SimpleFragmentActivity" />
         <activity android:name=".recycleviews.RecycleViewActivity" />

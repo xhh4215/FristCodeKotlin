@@ -945,6 +945,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id container
 id content
 id contentPanel
 id cos
@@ -970,6 +971,7 @@ id dragUp
 id easeIn
 id easeInOut
 id easeOut
+id editText
 id edit_query
 id end
 id end_padder
@@ -981,6 +983,7 @@ id fill_vertical
 id flip
 id forever
 id fragment_container_view_tag
+id getData
 id gone
 id graph
 id graph_wrap
@@ -1045,6 +1048,7 @@ id right
 id rightFragment
 id right_icon
 id right_side
+id saveData
 id sawtooth
 id screen
 id scrollIndicatorDown
@@ -1169,6 +1173,7 @@ layout activity_message
 layout activity_normal
 layout activity_progress
 layout activity_recycle_view
+layout activity_save_data_to_file
 layout activity_simple_fragment
 layout activity_start_test
 layout activity_system_receiver

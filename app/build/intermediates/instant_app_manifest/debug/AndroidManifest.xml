@@ -25,6 +25,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <provider
+            android:name="com.example.thefristcode.jetpackproject.DatabaseProvider"
+            android:authorities="com.example.databasetest.provider"
+            android:enabled="true"
+            android:exported="true" />
+
         <activity android:name="com.example.thefristcode.jetpackproject.permisssiongs.PermissionActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -32,10 +38,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.thefristcode.jetpackproject.sqlites.SqliteActivity" >
-        </activity>
-        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" >
-        </activity>
+        <activity android:name="com.example.thefristcode.jetpackproject.sqlites.SqliteActivity" />
+        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity" />
 
         <receiver

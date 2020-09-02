@@ -1,2 +1,3 @@
+include ':contentLibrary'
 include ':app'
 rootProject.name = "JetpackProject"

@@ -934,6 +934,7 @@ id bottom
 id bounce
 id btnActivity
 id btnActivityData
+id btnCall
 id btnContext
 id btnContextData
 id button
@@ -1181,6 +1182,7 @@ layout activity_main
 layout activity_menu
 layout activity_message
 layout activity_normal
+layout activity_permission
 layout activity_progress
 layout activity_recycle_view
 layout activity_save_data_to_file

@@ -1,6 +1,7 @@
 package com.example.thefristcode.jetpackproject.savedata
 
 import android.content.Context
+import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -44,5 +45,12 @@ class SharepreferenceActivity : AppCompatActivity() {
             val stringValue = preference.getString("string", "ssss")
             btnContextData.setText("age is $intValue, name value is$stringValue")
         }
+    }
+
+
+    fun SharedPreferences.open(block: SharedPreferences.Editor.() -> Unit) {
+        val editor = edit()
+        block(editor)
+        editor.apply()
     }
 }

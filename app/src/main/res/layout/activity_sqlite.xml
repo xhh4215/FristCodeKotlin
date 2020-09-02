@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sqlites.SqliteActivity">
+
+    <Button
+        android:id="@+id/createBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="创建数据库"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/addData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加数据"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/createBook" />
+
+    <Button
+        android:id="@+id/updateData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="更新数据"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/addData" />
+
+    <Button
+        android:id="@+id/deleteData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="删除数据"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/updateData" />
+
+    <Button
+        android:id="@+id/queryData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查询数据"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/deleteData" />
+
+    <Button
+        android:id="@+id/tranactionData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="使用事务处理"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/queryData" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

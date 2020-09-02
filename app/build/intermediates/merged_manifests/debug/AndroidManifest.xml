@@ -21,15 +21,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" >
+        <activity android:name="com.example.thefristcode.jetpackproject.sqlites.SqliteActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity" >
+        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" >
         </activity>
+        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity" />
 
         <receiver
             android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.AnotherMyBroadCastReceiver"

@@ -911,6 +911,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addData
 id age
 id alertTitle
 id aligned
@@ -953,12 +954,14 @@ id container
 id content
 id contentPanel
 id cos
+id createBook
 id custom
 id customPanel
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id deleteData
 id deltaRelative
 id dialog_button
 id dimensions
@@ -1042,6 +1045,7 @@ id progressBar
 id progressBtn
 id progress_circular
 id progress_horizontal
+id queryData
 id radio
 id ratio
 id rectangles
@@ -1123,6 +1127,7 @@ id triangle
 id unchecked
 id uniform
 id up
+id updateData
 id useLogo
 id visible
 id visible_removing_fragment_view_tag
@@ -1180,6 +1185,7 @@ layout activity_recycle_view
 layout activity_save_data_to_file
 layout activity_sharepreference
 layout activity_simple_fragment
+layout activity_sqlite
 layout activity_start_test
 layout activity_system_receiver
 layout custom_dialog

@@ -827,6 +827,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable ez
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -956,6 +957,7 @@ id content
 id contentPanel
 id cos
 id createBook
+id createNotification
 id custom
 id customPanel
 id decelerate
@@ -1182,6 +1184,7 @@ layout activity_main
 layout activity_menu
 layout activity_message
 layout activity_normal
+layout activity_notification
 layout activity_permission
 layout activity_progress
 layout activity_recycle_view

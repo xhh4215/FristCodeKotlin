@@ -23,7 +23,16 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.thefristcode.jetpackproject.notifications.NotificationActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <provider
             android:name="com.example.thefristcode.jetpackproject.DatabaseProvider"
             android:authorities="com.example.databasetest.provider"
@@ -31,11 +40,6 @@
             android:exported="true" />
 
         <activity android:name="com.example.thefristcode.jetpackproject.permisssiongs.PermissionActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name="com.example.thefristcode.jetpackproject.sqlites.SqliteActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" />

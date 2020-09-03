@@ -14,21 +14,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <provider
-            android:name=".DatabaseProvider"
-            android:authorities="com.example.databasetest.provider"
-            android:enabled="true"
-            android:exported="true"></provider>
-
-        <activity android:name=".permisssiongs.PermissionActivity">
+        <activity android:name=".notifications.NotificationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".sqlites.SqliteActivity"></activity>
-        <activity android:name=".savedata.SharepreferenceActivity"></activity>
+
+        <provider
+            android:name=".DatabaseProvider"
+            android:authorities="com.example.databasetest.provider"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".permisssiongs.PermissionActivity">
+        </activity>
+        <activity android:name=".sqlites.SqliteActivity" />
+        <activity android:name=".savedata.SharepreferenceActivity" />
         <activity android:name=".savedata.SaveDataToFileActivity" />
 
         <receiver

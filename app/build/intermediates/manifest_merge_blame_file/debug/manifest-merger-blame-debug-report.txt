@@ -24,7 +24,7 @@
 14-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:8:22-70
 15
 16    <application
-16-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:10:5-72:19
+16-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:10:5-75:19
 17        android:allowBackup="true"
 17-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:11:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -39,137 +39,143 @@
 23-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:14:9-54
 24        android:supportsRtl="true"
 24-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:15:9-35
-25        android:theme="@style/AppTheme" >
-25-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:16:9-40
-26        <provider
-26-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:17:9-21:48
-27            android:name="com.example.thefristcode.jetpackproject.DatabaseProvider"
-27-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:18:13-45
-28            android:authorities="com.example.databasetest.provider"
-28-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:13-68
-29            android:enabled="true"
-29-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:20:13-35
-30            android:exported="true" />
-30-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:13-36
-31
-32        <activity android:name="com.example.thefristcode.jetpackproject.permisssiongs.PermissionActivity" >
-32-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:23:9-29:20
-32-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:23:19-67
-33            <intent-filter>
-33-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:24:13-28:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:25:17-69
-34-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:25:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:17-77
-36-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:27-74
-37            </intent-filter>
-38        </activity>
-39        <activity android:name="com.example.thefristcode.jetpackproject.sqlites.SqliteActivity" />
-39-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:30:9-69
-39-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:30:19-57
-40        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" />
-40-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:31:9-79
-40-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:31:19-67
-41        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity" />
-41-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:32:9-69
-41-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:32:19-66
-42
-43        <receiver
-43-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:34:9-41:20
-44            android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.AnotherMyBroadCastReceiver"
-44-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:35:13-74
-45            android:enabled="true"
-45-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:36:13-35
-46            android:exported="true" >
-46-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:37:13-36
-47            <intent-filter android:priority="100" >
-47-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:38:13-40:29
-47-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:38:28-50
-48                <action android:name="com.example.broadcastrecever.MY_BROADCAST" />
-48-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:17-84
-48-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:25-81
-49            </intent-filter>
-50        </receiver>
-51        <receiver
-51-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:9-49:20
-52            android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.MyBroadCastReceiver"
-52-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:43:13-67
-53            android:enabled="true"
-53-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:44:13-35
-54            android:exported="true" >
-54-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:45:13-36
-55            <intent-filter>
-55-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:38:13-40:29
-56                <action android:name="com.example.broadcastrecever.MY_BROADCAST" />
-56-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:17-84
-56-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:25-81
-57            </intent-filter>
-58        </receiver>
-59        <receiver
-59-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:50:9-57:20
-60            android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.BootCompleReceiver"
-60-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:51:13-66
-61            android:enabled="true"
-61-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:52:13-35
-62            android:exported="true" >
-62-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:53:13-36
-63            <intent-filter>
-63-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:54:13-56:29
-64                <action android:name="android.intent.action.BOOT_COMPLETED" />
-64-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:17-79
-64-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:25-76
-65            </intent-filter>
-66        </receiver>
-67
-68        <activity android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.SystemReceiverActivity" />
-68-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:59:9-79
-68-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:59:19-76
-69        <activity android:name="com.example.thefristcode.jetpackproject.fragments.SimpleFragmentActivity" />
-69-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:60:9-70
-69-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:60:19-67
-70        <activity android:name="com.example.thefristcode.jetpackproject.recycleviews.RecycleViewActivity" />
-70-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:61:9-70
-70-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:61:19-67
-71        <activity android:name="com.example.thefristcode.jetpackproject.uis.ProgressActivity" />
-71-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:62:9-58
-71-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:62:19-55
-72        <activity android:name="com.example.thefristcode.jetpackproject.lifes.StartTestActivity" />
-72-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:63:9-61
-72-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:63:19-58
-73        <activity android:name="com.example.thefristcode.jetpackproject.lifes.NormalActivity" />
-73-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:64:9-58
-73-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:64:19-55
-74        <activity
-74-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:65:9-67:61
-75            android:name="com.example.thefristcode.jetpackproject.lifes.DiaLogActivity"
-75-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:66:13-49
-76            android:theme="@style/Theme.AppCompat.Dialog" />
-76-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:67:13-58
-77        <activity android:name="com.example.thefristcode.jetpackproject.activitys.MessageActivity" />
-77-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:68:9-63
-77-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:68:19-60
-78        <activity android:name="com.example.thefristcode.jetpackproject.activitys.IntentsActivity" />
-78-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:69:9-63
-78-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:69:19-60
-79        <activity android:name="com.example.thefristcode.jetpackproject.activitys.MenuActivity" />
-79-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:70:9-60
-79-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:70:19-57
-80        <activity android:name="com.example.thefristcode.jetpackproject.lifes.MainActivity" />
-80-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:71:9-56
-80-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:71:19-53
-81
-82        <provider
-82-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
-83            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-83-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
-84            android:authorities="com.example.thefristcode.jetpackproject.lifecycle-process"
-84-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
-85            android:exported="false"
-85-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
-86            android:multiprocess="true" />
-86-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
-87    </application>
-88
-89</manifest>
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:16:9-40
+27        <activity android:name="com.example.thefristcode.jetpackproject.notifications.NotificationActivity" >
+27-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:17:9-23:20
+27-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:17:19-69
+28            <intent-filter>
+28-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:17-69
+29-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:17-77
+31-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:25:9-29:39
+36            android:name="com.example.thefristcode.jetpackproject.DatabaseProvider"
+36-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:26:13-45
+37            android:authorities="com.example.databasetest.provider"
+37-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:13-68
+38            android:enabled="true"
+38-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:28:13-35
+39            android:exported="true" />
+39-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:29:13-36
+40
+41        <activity android:name="com.example.thefristcode.jetpackproject.permisssiongs.PermissionActivity" >
+41-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:31:9-32:20
+41-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:31:19-67
+42        </activity>
+43        <activity android:name="com.example.thefristcode.jetpackproject.sqlites.SqliteActivity" />
+43-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:33:9-60
+43-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:33:19-57
+44        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity" />
+44-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:34:9-70
+44-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:34:19-67
+45        <activity android:name="com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity" />
+45-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:35:9-69
+45-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:35:19-66
+46
+47        <receiver
+47-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:37:9-44:20
+48            android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.AnotherMyBroadCastReceiver"
+48-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:38:13-74
+49            android:enabled="true"
+49-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:13-35
+50            android:exported="true" >
+50-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:40:13-36
+51            <intent-filter android:priority="100" >
+51-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:41:13-43:29
+51-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:41:28-50
+52                <action android:name="com.example.broadcastrecever.MY_BROADCAST" />
+52-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:17-84
+52-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:25-81
+53            </intent-filter>
+54        </receiver>
+55        <receiver
+55-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:45:9-52:20
+56            android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.MyBroadCastReceiver"
+56-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:46:13-67
+57            android:enabled="true"
+57-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:47:13-35
+58            android:exported="true" >
+58-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:48:13-36
+59            <intent-filter>
+59-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:41:13-43:29
+60                <action android:name="com.example.broadcastrecever.MY_BROADCAST" />
+60-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:17-84
+60-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:25-81
+61            </intent-filter>
+62        </receiver>
+63        <receiver
+63-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:53:9-60:20
+64            android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.BootCompleReceiver"
+64-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:54:13-66
+65            android:enabled="true"
+65-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:13-35
+66            android:exported="true" >
+66-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:56:13-36
+67            <intent-filter>
+67-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:57:13-59:29
+68                <action android:name="android.intent.action.BOOT_COMPLETED" />
+68-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:58:17-79
+68-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:58:25-76
+69            </intent-filter>
+70        </receiver>
+71
+72        <activity android:name="com.example.thefristcode.jetpackproject.broadcastreceivers.SystemReceiverActivity" />
+72-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:62:9-79
+72-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:62:19-76
+73        <activity android:name="com.example.thefristcode.jetpackproject.fragments.SimpleFragmentActivity" />
+73-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:63:9-70
+73-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:63:19-67
+74        <activity android:name="com.example.thefristcode.jetpackproject.recycleviews.RecycleViewActivity" />
+74-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:64:9-70
+74-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:64:19-67
+75        <activity android:name="com.example.thefristcode.jetpackproject.uis.ProgressActivity" />
+75-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:65:9-58
+75-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:65:19-55
+76        <activity android:name="com.example.thefristcode.jetpackproject.lifes.StartTestActivity" />
+76-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:66:9-61
+76-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:66:19-58
+77        <activity android:name="com.example.thefristcode.jetpackproject.lifes.NormalActivity" />
+77-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:67:9-58
+77-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:67:19-55
+78        <activity
+78-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:68:9-70:61
+79            android:name="com.example.thefristcode.jetpackproject.lifes.DiaLogActivity"
+79-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:69:13-49
+80            android:theme="@style/Theme.AppCompat.Dialog" />
+80-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:70:13-58
+81        <activity android:name="com.example.thefristcode.jetpackproject.activitys.MessageActivity" />
+81-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:71:9-63
+81-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:71:19-60
+82        <activity android:name="com.example.thefristcode.jetpackproject.activitys.IntentsActivity" />
+82-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:72:9-63
+82-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:72:19-60
+83        <activity android:name="com.example.thefristcode.jetpackproject.activitys.MenuActivity" />
+83-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:73:9-60
+83-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:73:19-57
+84        <activity android:name="com.example.thefristcode.jetpackproject.lifes.MainActivity" />
+84-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:74:9-56
+84-->/Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:74:19-53
+85
+86        <provider
+86-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+87            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+88            android:authorities="com.example.thefristcode.jetpackproject.lifecycle-process"
+88-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+89            android:exported="false"
+89-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+90            android:multiprocess="true" />
+90-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/015b423e3ab592da17cd689df6257aab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+91    </application>
+92
+93</manifest>

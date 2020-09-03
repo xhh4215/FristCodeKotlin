@@ -3,37 +3,37 @@
 3    package="com.example.thefristcode.jetpackproject.test" >
 4
 5    <uses-sdk
-5-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:5:5-74
+5-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:5:5-74
 6        android:minSdkVersion="26"
-6-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:5:15-41
+6-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:5:15-41
 7        android:targetSdkVersion="30" />
-7-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:5:42-71
+7-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:11:5-15:89
+9-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:11:5-15:89
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:11:22-76
+10-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:14:22-52
+11-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:13:22-53
+12-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:13:22-53
 13        android:label="Tests for com.example.thefristcode.jetpackproject"
-13-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:15:22-87
+13-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:15:22-87
 14        android:targetPackage="com.example.thefristcode.jetpackproject" />
-14-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:12:22-85
+14-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:12:22-85
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.3.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/594defd1207cddddcb78c364fff18c48/jetified-core-1.3.0/AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.3.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/594defd1207cddddcb78c364fff18c48/jetified-core-1.3.0/AndroidManifest.xml:24:22-69
 17
 18    <application
-18-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:7:5-9:19
+18-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:7:5-9:19
 19        android:debuggable="true"
-19-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:7:18-43
+19-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:7:18-43
 20        android:extractNativeLibs="false" >
 21        <uses-library android:name="android.test.runner" />
-21-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:8:9-60
-21-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3878602230938509192.xml:8:23-57
+21-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:8:9-60
+21-->/Users/smallblack/StudioProjects/FristCodeProject/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5068381557717493527.xml:8:23-57
 22
 23        <activity
 23-->[androidx.test:core:1.3.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/594defd1207cddddcb78c364fff18c48/jetified-core-1.3.0/AndroidManifest.xml:27:9-33:20

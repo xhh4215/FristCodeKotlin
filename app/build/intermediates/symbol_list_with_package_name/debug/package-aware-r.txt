@@ -1061,6 +1061,7 @@ id ratio
 id rectangles
 id recycleView
 id recycleViewItem
+id responseText
 id reverseSawtooth
 id right
 id rightFragment
@@ -1083,6 +1084,7 @@ id search_plate
 id search_src_text
 id search_voice_btn
 id select_dialog_listview
+id sendRequestBtn
 id shortcut
 id showCustom
 id showHome
@@ -1189,6 +1191,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_dia_log
+layout activity_fore_ground
 layout activity_intents
 layout activity_main
 layout activity_menu
@@ -1207,6 +1210,7 @@ layout activity_start_test
 layout activity_system_receiver
 layout activity_take_photo
 layout activity_video_player
+layout activity_web_view
 layout custom_dialog
 layout fragment_another
 layout fragment_life

@@ -13,6 +13,8 @@
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -24,15 +26,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.thefristcode.jetpackproject.medias.VideoPlayerActivity" >
+        <activity android:name="com.example.thefristcode.jetpackproject.networks.WebViewActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.thefristcode.jetpackproject.medias.PlayAudioActivity" >
+
+        <service
+            android:name="com.example.thefristcode.jetpackproject.services.MyService2"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.example.thefristcode.jetpackproject.services.ForeGroundActivity" >
         </activity>
+        <activity android:name="com.example.thefristcode.jetpackproject.medias.VideoPlayerActivity" />
+        <activity android:name="com.example.thefristcode.jetpackproject.medias.PlayAudioActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.medias.TakePhotoActivity" />
         <activity android:name="com.example.thefristcode.jetpackproject.notifications.NotificationActivity" />
 

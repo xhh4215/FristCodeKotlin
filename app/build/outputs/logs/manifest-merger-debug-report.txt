@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
-INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
-INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
-INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
 MERGED from [:contentLibrary] /Users/smallblack/StudioProjects/FristCodeProject/contentLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.core:core-ktx:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/45677c45e4f66da8cda430daf4bff8f2/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/5122fc204500656af10166f2dd6a5b7e/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -43,20 +43,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/smallblack/.gradle
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/0d2c55355e90d376d722afda3c30ecaa/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/b471e733f400f544a82eaa0c9e35981b/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/a89ea41efc1c5b332829c150e97aeb03/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
-INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
-INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
 	package
 		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:3:5-54
 		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
 		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-90:12
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:1-99:12
 		INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:2:11-69
@@ -76,8 +76,16 @@ uses-permission#android.permission.WRITE_CONTACTS
 ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:8:5-73
 	android:name
 		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:8:22-70
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:10:22-64
 application
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:10:5-88:19
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:12:5-97:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/e822aa852b1e885d7d44cdc2e969fb68/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/2995d45ea588366f6f9fe8fc590d4e16/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
@@ -91,169 +99,185 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/smal
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /Users/smallblack/.gradle/caches/transforms-2/files-2.1/d56f83929f2c43e62f604d882492f3e1/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:16:9-40
-activity#com.example.thefristcode.jetpackproject.medias.VideoPlayerActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:17:9-23:20
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.thefristcode.jetpackproject.networks.WebViewActivity
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:17:19-61
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:19-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:23:27-74
+service#com.example.thefristcode.jetpackproject.services.MyService2
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:9-30:39
+	android:enabled
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:28:13-48
+activity#com.example.thefristcode.jetpackproject.services.ForeGroundActivity
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:32:19-62
+activity#com.example.thefristcode.jetpackproject.medias.VideoPlayerActivity
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:34:9-64
+	android:name
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:34:19-61
 activity#com.example.thefristcode.jetpackproject.medias.PlayAudioActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:24:9-26:20
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:35:9-62
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:24:19-59
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:35:19-59
 activity#com.example.thefristcode.jetpackproject.medias.TakePhotoActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:9-62
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:36:9-62
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:27:19-59
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:36:19-59
 activity#com.example.thefristcode.jetpackproject.notifications.NotificationActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:28:9-72
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:37:9-72
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:28:19-69
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:37:19-69
 provider#com.example.thefristcode.jetpackproject.DatabaseProvider
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:30:9-34:39
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:9-43:39
 	android:enabled
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:33:13-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:13-35
 	android:authorities
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:32:13-68
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:41:13-68
 	android:exported
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:34:13-36
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:31:13-45
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:40:13-45
 provider#androidx.core.content.FileProvider
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:35:9-43:20
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:44:9-52:20
 	android:grantUriPermissions
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:39:13-47
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:48:13-47
 	android:authorities
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:37:13-87
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:46:13-87
 	android:exported
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:38:13-37
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:36:13-62
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:45:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:40:13-42:54
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:49:13-51:54
 	android:resource
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:42:17-51
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:51:17-51
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:41:17-67
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:50:17-67
 activity#com.example.thefristcode.jetpackproject.permisssiongs.PermissionActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:45:9-70
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:54:9-70
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:45:19-67
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:54:19-67
 activity#com.example.thefristcode.jetpackproject.sqlites.SqliteActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:46:9-60
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:9-60
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:46:19-57
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:19-57
 activity#com.example.thefristcode.jetpackproject.savedata.SharepreferenceActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:47:9-70
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:56:9-70
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:47:19-67
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:56:19-67
 activity#com.example.thefristcode.jetpackproject.savedata.SaveDataToFileActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:48:9-69
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:57:9-69
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:48:19-66
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:57:19-66
 receiver#com.example.thefristcode.jetpackproject.broadcastreceivers.AnotherMyBroadCastReceiver
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:50:9-57:20
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:59:9-66:20
 	android:enabled
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:52:13-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:61:13-35
 	android:exported
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:53:13-36
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:62:13-36
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:51:13-74
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:60:13-74
 intent-filter#action:name:com.example.broadcastrecever.MY_BROADCAST
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:54:13-56:29
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:63:13-65:29
 	android:priority
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:54:28-50
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:63:28-50
 action#com.example.broadcastrecever.MY_BROADCAST
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:17-84
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:64:17-84
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:55:25-81
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:64:25-81
 receiver#com.example.thefristcode.jetpackproject.broadcastreceivers.MyBroadCastReceiver
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:58:9-65:20
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:67:9-74:20
 	android:enabled
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:60:13-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:69:13-35
 	android:exported
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:61:13-36
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:70:13-36
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:59:13-67
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:68:13-67
 receiver#com.example.thefristcode.jetpackproject.broadcastreceivers.BootCompleReceiver
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:66:9-73:20
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:75:9-82:20
 	android:enabled
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:68:13-35
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:77:13-35
 	android:exported
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:69:13-36
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:78:13-36
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:67:13-66
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:76:13-66
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:70:13-72:29
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:79:13-81:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:71:17-79
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:80:17-79
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:71:25-76
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:80:25-76
 activity#com.example.thefristcode.jetpackproject.broadcastreceivers.SystemReceiverActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:75:9-79
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:84:9-79
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:75:19-76
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:84:19-76
 activity#com.example.thefristcode.jetpackproject.fragments.SimpleFragmentActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:76:9-70
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:85:9-70
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:76:19-67
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:85:19-67
 activity#com.example.thefristcode.jetpackproject.recycleviews.RecycleViewActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:77:9-70
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:86:9-70
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:77:19-67
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:86:19-67
 activity#com.example.thefristcode.jetpackproject.uis.ProgressActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:78:9-58
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:87:9-58
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:78:19-55
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:87:19-55
 activity#com.example.thefristcode.jetpackproject.lifes.StartTestActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:79:9-61
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:88:9-61
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:79:19-58
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:88:19-58
 activity#com.example.thefristcode.jetpackproject.lifes.NormalActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:80:9-58
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:89:9-58
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:80:19-55
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:89:19-55
 activity#com.example.thefristcode.jetpackproject.lifes.DiaLogActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:81:9-83:61
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:90:9-92:61
 	android:theme
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:83:13-58
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:92:13-58
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:82:13-49
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:91:13-49
 activity#com.example.thefristcode.jetpackproject.activitys.MessageActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:84:9-63
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:93:9-63
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:84:19-60
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:93:19-60
 activity#com.example.thefristcode.jetpackproject.activitys.IntentsActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:85:9-63
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:94:9-63
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:85:19-60
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:94:19-60
 activity#com.example.thefristcode.jetpackproject.activitys.MenuActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:86:9-60
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:95:9-60
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:86:19-57
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:95:19-57
 activity#com.example.thefristcode.jetpackproject.lifes.MainActivity
-ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:87:9-56
+ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:96:9-56
 	android:name
-		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:87:19-53
+		ADDED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml:96:19-53
 uses-sdk
 INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/smallblack/StudioProjects/FristCodeProject/app/src/main/AndroidManifest.xml

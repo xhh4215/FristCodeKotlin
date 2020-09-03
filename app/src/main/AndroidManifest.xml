@@ -14,22 +14,35 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".notifications.NotificationActivity">
+        <activity android:name=".medias.VideoPlayerActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".medias.PlayAudioActivity">
+
+        </activity>
+        <activity android:name=".medias.TakePhotoActivity" />
+        <activity android:name=".notifications.NotificationActivity" />
 
         <provider
             android:name=".DatabaseProvider"
             android:authorities="com.example.databasetest.provider"
             android:enabled="true"
             android:exported="true" />
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.thefristcode.jetpackproject.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
 
-        <activity android:name=".permisssiongs.PermissionActivity">
-        </activity>
+        <activity android:name=".permisssiongs.PermissionActivity" />
         <activity android:name=".sqlites.SqliteActivity" />
         <activity android:name=".savedata.SharepreferenceActivity" />
         <activity android:name=".savedata.SaveDataToFileActivity" />
